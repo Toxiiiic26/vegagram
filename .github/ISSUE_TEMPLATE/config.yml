@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask vegagram related questions
+    url: https://stackoverflow.com/questions/tagged/vegagram
+    about: This place is only for reporting issues about vegagram. You can ask questions at StackOverflow.
+  - name: Join the Telegram channel
+    url: https://t.me/vegagram
+    about: Join the official channel and stay tuned for news, updates and announcements.
